@@ -1,4 +1,4 @@
-<h2 align="left">Hi There👋! My name is Tawhid Ahmed and  I'm a Fronted developer.</h2>
+<h2 align="left">Hi There👋! My name is Tawhid Ahmed and  I'm a Frontend developer.</h2>
 
 ###
 
