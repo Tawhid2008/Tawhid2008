@@ -1,5 +1,15 @@
 <h2 align="left">Hi There👋! My name is Tawhid Ahmed and  I'm a Frontend developer.</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tawhid2008&label=Profile%20views&color=0e75b6&style=flat" alt="tawhid2008" /> </p>
+
+- 🔭 I’m currently working on **Java**
+
+- 🌱 I’m currently learning **Canva**
+
+- 📫 How to reach me **tawhidahmed6210511@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
 ###
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
