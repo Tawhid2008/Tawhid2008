@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBp(XG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb//hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000-600px.gif)J(https://rishabchanda.io)
+[![MasterHead]https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishabchanda.io)
 
 <h1 align="center">Hi 👋, I'm TAWHID AHMED</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
